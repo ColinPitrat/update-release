@@ -1,5 +1,7 @@
 # Create/Update release and upload assets
 
+**Deprecated**: use https://github.com/softprops/action-gh-release instead
+
 An action to create a release or update it if it exists and publish assets into
 it. This ensures the release and tag are updated so that the release date is
 updated.
@@ -43,6 +45,8 @@ to the latest asset uploaded).
 
 This is a fork of [johnwbyrd/update-release](https://github.com/johnwbyrd/update-release)
 which is Archived so I can't submit changes to it.
+
+Deprecated: use https://github.com/softprops/action-gh-release instead
 
 ## Quick start
 
